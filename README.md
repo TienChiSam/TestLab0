@@ -1,1 +1,2 @@
-kjsfdnsrgnpo sgn sno s io# TestLab0
+cin>> a
+cout<< b
